@@ -1,5 +1,7 @@
 export const name = "Rafael Tosta"
 
+export const moreInfo = "Graduated in Computer Engineering from the State University of Feira de Santana - UEFS (2014) and master's degree from the Graduate Program in Applied Computing at UEFS (2016). Currently acts as an EBTT teacher at IFBA."
+
 export const githubUsername = "rafatosta";
 
 export const email = "rafa.ecomp@gmail.com"
