@@ -1,29 +1,33 @@
-import SocialLinks from "./SocialLinks";
+import SocialMedia from "./SocialMedia";
+import { motion } from "framer-motion";
 
 function Hero() {
     return (
-        <div className="relative bg-[url('assets/photo.avif')] bg-cover bg-center bg-no-repeat text-white">
+        <div className="relative bg-[url('assets/photo.avif')] bg-cover bg-center bg-no-repeat text-white ">
             <div
-                className="absolute inset-0 bg-black/25"
+                className="absolute inset-0 bg-black/25 backdrop-blur-sm"
             ></div>
-            <div className="relative h-screen mx-auto sm:max-w-7xl flex flex-col justify-center md:items-start items-center gap-4 sm:gap-6">
-                <p className="text-sm sm:text-lg font-bold">Welcome!</p>
-                <h1 className="text-5xl font-extrabold sm:text-7xl">
-                    I'm
-                    <strong className="font-extrabold text-red-700"> Rafael Tosta </strong>
-                </h1>
-                <p className="sm:text-xl/relaxed">
-                    Software teacher and developer
-                </p>
-                <SocialLinks />
-                <div className="absolute inset-x-0 bottom-16 flex items-center justify-center">
-                    <a
-                        className="block w-auto rounded px-12 py-3 text-sm font-medium text-red-600 shadow hover:text-red-700 focus:outline-none focus:ring active:text-red-500"
-                        href="#"
-                    >
-                        Learn More
-                    </a>
-                </div>
+            <div className="relative h-screen mx-auto flex flex-col justify-center items-center gap-4 sm:gap-6">
+                <motion.div
+                    initial={{ opacity: 0 }}
+                    animate={{ opacity: 1 }}
+                    transition={{
+                        delay: 0.1,
+                        x: { duration: 1 },
+                        default: { ease: "linear" },
+                    }}
+                >
+                    <h1 className="text-3xl font-extrabold sm:text-7xl">
+                        I'm
+                        <p className="font-extrabold text-red-700 text-6xl sm:text-9xl drop-shadow-2xl"> Rafael Tosta </p>
+                    </h1>
+                    <p className="text-xl sm:text-4xl drop-shadow-2xl">
+                        Software teacher and developer
+                    </p>
+                </motion.div>
+
+                <SocialMedia />
+
             </div>
         </div>
     );
