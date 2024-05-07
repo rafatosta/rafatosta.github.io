@@ -22,7 +22,7 @@ function Hero() {
                         <p className="font-extrabold text-red-700 text-6xl sm:text-9xl drop-shadow-2xl"> Rafael Tosta </p>
                     </h1>
                     <p className="text-xl sm:text-4xl drop-shadow-2xl">
-                        Software teacher and developer
+                        Teacher and software developer
                     </p>
                 </motion.div>
 
