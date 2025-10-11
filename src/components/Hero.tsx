@@ -1,16 +1,16 @@
 import profileImage from "@/assets/profile.jpg";
-import { Button } from "flowbite-react";
-import { ArrowDown, Github, Linkedin, Mail } from "lucide-react";
+/* import { Button } from "flowbite-react"; */
+import { /* ArrowDown, */ Github, Linkedin, Mail } from "lucide-react";
 import heroBg from "@/assets/hero-bg.avif";
 
 function Hero() {
 
-    const scrollToSection = (id: string) => {
+    /* const scrollToSection = (id: string) => {
         const element = document.getElementById(id);
         if (element) {
             element.scrollIntoView({ behavior: "smooth" });
         }
-    };
+    }; */
 
     return (
         <section
@@ -83,7 +83,7 @@ function Hero() {
                         </div>
 
                         {/* CTA Buttons */}
-                        <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
+                        {/* <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
                             <Button
                                 size="lg"
                                 onClick={() => scrollToSection("projetos")}
@@ -97,7 +97,7 @@ function Hero() {
                             >
                                 Ver publicações
                             </Button>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
