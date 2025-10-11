@@ -50,8 +50,7 @@ function Hero() {
 
                         {/* Description */}
                         <p className="text-base md:text-lg max-w-2xl mx-auto mb-8 leading-relaxed">
-                            Atuo na interface entre programação, educação e inovação tecnológica,
-                            desenvolvendo pesquisas e projetos que conectam teoria e prática no ensino superior.
+                            Trabalho na área de programação, educação e inovação tecnológica, desenvolvendo pesquisas e projetos que aproximam a teoria da prática.
                         </p>
 
                         {/* Social Links */}
