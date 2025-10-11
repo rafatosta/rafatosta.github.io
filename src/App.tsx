@@ -3,9 +3,9 @@ import Index from "./pages/Index"
 function App() {
 
   return (
-    <>
-     <Index />
-    </>
+    <div className="min-h-screen">
+      <Index />
+    </div>
   )
 }
 

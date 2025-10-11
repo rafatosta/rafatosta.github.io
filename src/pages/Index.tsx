@@ -1,11 +1,11 @@
+import Hero from "../components/Hero";
+
 function Index() {
     return (
-        <div className="min-h-screen">
+        <div>
             {/* Header */}
             <main>
-            <h1 className="text-3xl font-bold underline">
-        Hello world!
-      </h1>
+                <Hero />
             </main>
             {/* Footer */}
         </div>
