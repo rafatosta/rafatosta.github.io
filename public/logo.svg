@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" viewBox="0 35 202 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="65" y1="235" x2="485" y2="235" gradientUnits="userSpaceOnUse" id="color-12885685683">
+      <stop offset="0" stop-color="#8360c3"/>
+      <stop offset="1" stop-color="#2ebf91"/>
+    </linearGradient>
+  </defs>
+  <g fill="url(#color-12885685683)" fill-rule="none" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal" transform="matrix(1, 0, 0, 1, -174.000015, -89.760223)">
+    <g data-paper-data="{&quot;isGlobalGroup&quot;:true,&quot;bounds&quot;:{&quot;x&quot;:65,&quot;y&quot;:137.82939276957512,&quot;width&quot;:420,&quot;height&quot;:194.34121446084976}}">
+      <g data-paper-data="{&quot;isIcon&quot;:&quot;true&quot;,&quot;selectedEffects&quot;:{&quot;container&quot;:&quot;&quot;,&quot;transformation&quot;:&quot;&quot;,&quot;pattern&quot;:&quot;&quot;},&quot;fillRule&quot;:&quot;evenodd&quot;,&quot;fillRuleOriginal&quot;:&quot;evenodd&quot;,&quot;iconType&quot;:&quot;icon&quot;,&quot;rawIconId&quot;:&quot;110890&quot;,&quot;combineTerms&quot;:&quot;code&quot;,&quot;iconStyle&quot;:&quot;standalone&quot;,&quot;bounds&quot;:{&quot;x&quot;:185.29261017799865,&quot;y&quot;:137.82939276957512,&quot;width&quot;:179.4147796440027,&quot;height&quot;:113.86170475162245},&quot;suitableAsStandaloneIcon&quot;:true}" fill-rule="evenodd">
+        <g data-paper-data="{&quot;isPathIcon&quot;:true}">
+          <path d="M254.14191,246.46033c-0.15,-0.897 -0.125,-1.76501 0.078,-2.61001l31.31514,-102.02844c0.556,-2.17201 2.06601,-3.46702 4.53802,-3.88502c1.79401,-0.304 3.52802,0.037 5.19602,1.023c1.66801,0.99 2.65501,2.38301 2.95501,4.17702c0.17,1.01 0.097,1.94801 -0.215,2.80901l-31.23514,101.49344c-0.649,2.30101 -2.32101,3.68102 -5.01302,4.14002c-1.91101,0.324 -3.58802,-0.057 -5.04102,-1.137c-1.45301,-1.084 -2.31001,-2.41101 -2.57801,-3.98202z"/>
+          <path d="M308.11214,229.25025c-1.76601,-1.64801 -2.64701,-3.61302 -2.64701,-5.89003c0,-2.27701 0.796,-3.92502 2.39101,-4.95202l36.02416,-23.5631l-36.02416,-23.5591c-1.59501,-1.25401 -2.39101,-2.90201 -2.39101,-4.95202c0,-2.27701 0.881,-4.26602 2.64701,-5.97503c1.76601,-1.70901 3.61202,-2.56101 5.54902,-2.56101c1.022,0 1.81801,0.231 2.39001,0.682l44.9022,29.36713c2.50001,1.70901 3.75402,4.04302 3.75402,6.99803c0,2.96301 -1.25401,5.23602 -3.75402,6.83203l-44.9022,29.36713c-0.572,0.455 -1.36801,0.682 -2.39001,0.682c-1.93701,0 -3.78302,-0.824 -5.54902,-2.47601z"/>
+          <path d="M189.04663,187.85107c-2.50401,1.70501 -3.75402,4.03902 -3.75402,6.99803c0,2.84601 1.25001,5.11902 3.75402,6.82803l44.9022,29.37113c0.568,0.455 1.42001,0.682 2.56101,0.682c1.93201,0 3.78302,-0.824 5.54902,-2.47601c1.76501,-1.64801 2.64601,-3.61302 2.64601,-5.89003c0,-2.39101 -0.856,-4.03902 -2.56901,-4.95202l-36.01216,-23.5631l36.01216,-23.5591c1.71301,-1.136 2.56901,-2.78801 2.56901,-4.95202c0,-2.27701 -0.885,-4.26602 -2.64601,-5.97503c-1.76601,-1.70801 -3.61702,-2.56101 -5.54902,-2.56101c-1.141,0 -1.99301,0.227 -2.56101,0.682z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
